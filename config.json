@@ -1,0 +1,14 @@
+{
+  "task_specific_params": {
+    "text-generation": {
+      "max_length": 500,
+      "min_length": 100,
+      "temperature": 0.90,
+      "no_repeat_ngram_size": 2,
+      "do_sample": true,
+      "early_stopping": true,
+      "output_scores": false,
+      "remove_invalid_values": true
+    }
+  }
+}
