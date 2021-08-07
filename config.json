@@ -57,7 +57,7 @@
   "task_specific_params": {
     "text-generation": {
       "do_sample": true,
-      "max_length": 1000,
+      "max_length": 500,
       "temperature": 0.90
     }
   },
